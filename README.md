@@ -1,5 +1,5 @@
- Hi there 👋
- 🔭 I’m currently working on some side projects! <br />
+ Hi there 👋 <br />
+ 🔭 I’m currently working on creating an about me page! <br />
  🌱 I’m currently learning Java <br />
  👯 I’m looking to collaborate on a fancy Magic 8 ball site <br />
  🤔 I’m looking for help in a deep understanding of Java <br />
