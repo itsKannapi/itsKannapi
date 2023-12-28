@@ -1,10 +1,10 @@
  Hi there 👋 <br />
  🔭 I’m currently working on creating an about me/portfolio page! <br />
- 🌱 I’m currently learning C# & Relearning Javascript/TypeScript <br />
- 🎮 I currently play Valorant, OSU!, Honkai Star Rail, and CounterStrike <br />
- 📫 How to reach me: Twitter @KannapiwasTaken <br />
+ 🌱 I’m currently learning C++ & Relearning Javascript/TypeScript <br />
+ 🎮 I currently play Valorant, OSU!, Genshin Impact, Finals, and CounterStrike <br />
+ 📫 How to reach me: Twitter @KaaaNahPee <br />
  😄 Pronouns: he/him/his <br />
- ⚡ About me: Just a kid from the midwest who plays hockey and Valorant that loves coding :D! <br />
+ ⚡ About me: Just a kid from the midwest who plays hockey and Valorant that loves computers :D! <br />
 
 <!--
 **itsKannapi/itsKannapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
