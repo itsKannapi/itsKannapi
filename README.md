@@ -1,3 +1,5 @@
+![image](https://github.com/itsKannapi/itsKannapi/assets/112032889/bf60aac0-8380-474c-8bbb-388783196cf9)
+ 
  Hi there 👋 <br />
  🔭 I’m currently working on creating a portfolio and a liquipedia page! <br />
  🌱 I’m currently learning C++ & Relearning Javascript/TypeScript <br />
