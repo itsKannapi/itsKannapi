@@ -1,8 +1,8 @@
  Hi there 👋 <br />
- 🔭 I’m currently working on creating an about me/portfolio page! <br />
+ 🔭 I’m currently working on creating a portfolio and a liquipedia page! <br />
  🌱 I’m currently learning C++ & Relearning Javascript/TypeScript <br />
  🎮 I currently play Valorant, OSU!, Genshin Impact, Finals, and CounterStrike <br />
- 📫 How to reach me: Twitter @KaaaNahPee <br />
+ 📫 How to reach me: Twitter @KanKannapi <br />
  😄 Pronouns: he/him/his <br />
  ⚡ About me: Just a kid from the midwest who plays hockey and Valorant that loves computers :D! <br />
 
